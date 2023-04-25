@@ -1,0 +1,24 @@
+Algoritimo Hora de Acordar.
+
+Início
+
+	1. Celular desperta;
+	2. Escuto de olhos fechados;
+	3. Abro os olhos;
+	4. Pego o celular na mão;
+	5. Desligo o alarme;
+	6. Se estiver coberto;
+      		1. Me descubro;
+     	        2. Me sento na cama;
+      		3. Levanto da cama;
+      		4. Calço o chinelo;
+      		5. Saio do Quarto;
+	7. Se não estiver coberto;
+      		1. Me sento na cama;
+      		2. Levanto da cama;
+      		3. Calço o chinelo;
+      		4. Saio do Quarto; 
+
+Fim
+
+ 
